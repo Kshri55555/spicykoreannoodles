@@ -1,0 +1,1 @@
+let exes=["lamnganbi","tulshika"]
