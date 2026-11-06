@@ -1,11 +1,6 @@
-x=10
-print(type(x))
-y=10.5
-print(type(y))
-z="Hello"
-print(type(z))
-complex_num=2+3j
-print(type(complex_num))
-fruits = ["apple","kiwi"]
-fruits.append("mango")
-print(fruits)
+class Solution:
+    def twoSum(self,nums:List[int],target:int)->List[int]:
+        for i in range (len(nums):
+            for j in range (len(nums)):
+                if nums [i]+nums[j]==target and i!=j:
+                   return[i,j]:

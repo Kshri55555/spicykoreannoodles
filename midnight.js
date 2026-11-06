@@ -1,1 +1,0 @@
-let exes=["lamnganbi","tulshika"]
